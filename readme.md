@@ -7,3 +7,6 @@ For abstractive summarization, 02 Hugging face models Google/Pegasus-large and F
 
 
 ROUGE-2 scores and cosine similarity matrices are used as evaluation metrics to compare the accuracies between different summarization methods.
+
+
+Dataset: https://www.kaggle.com/datasets/kevinlu1248/wikipedia-articles-csv-2017 
